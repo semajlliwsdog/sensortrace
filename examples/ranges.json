@@ -1,0 +1,4 @@
+{
+  "temperature_c": {"min": 10, "max": 35},
+  "relative_humidity_pct": {"min": 0, "max": 100}
+}
